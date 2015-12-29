@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+DataStructure/bin/*
+DataStructure/obj/*
+DataStructureTest/bin/*
+DataStructureTest/obj/*
